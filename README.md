@@ -46,7 +46,7 @@ class SecondHandAnimation(imageView: ImageView) : ViewStepAnimatorImpl<ImageView
 
 > Now call it using:
 ```kotlin
-secondHandAnimation = SecondHandAnimation(binding.ivSecondHand).apply {
+val secondHandAnimation: SecondHandAnimation = SecondHandAnimation(binding.ivSecondHand).apply {
     // Set fps for the animation
     setFPS(60)
     // set if looping
