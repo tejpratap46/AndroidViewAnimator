@@ -1,4 +1,6 @@
 # AndroidViewAnimator
+[![](https://jitpack.io/v/tejpratap46/AndroidViewAnimator.svg)](https://jitpack.io/#tejpratap46/AndroidViewAnimator)
+
 Easily animate any view with complete control on each view. Written in kotlin
 
 Here is a demo of time animation:
